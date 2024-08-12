@@ -4,7 +4,11 @@ Dies ist das Repository für den **LinkedIn Learning** Kurs `NoSQL-Datenbanken �
 
 ![COURSENAME][lil-thumbnail-url] 
 
-[COURSEDESCRIPTION]
+Auf Websites, die große Datenmengen im Griff halten müssen, stoßen die klassischen relationalen Datenbanksysteme schnell an ihre Grenzen. NoSQL-Datenbanken – NoSQL steht für »Not only SQL«  – versprechen hier Abhilfe: Dieses Video-Training mit dem erfahrenen Softwareentwickler Christian Trutz macht Sie mit spannenden Möglichkeiten, die die Entwicklung von Anwendungen deutlich vereinfachen oder überhaupt erst ermöglichen, vertraut.<br><br>
+
+Sie lernen drei verschiedene Datenbankarten kennen: MongoDB als dokumentenorientierte Datenbank, Neo4j für graphenorientierte Datenbanken und Redis als Key-Value-Datenbank. Anhand von Code-Challenges können Sie das Erlernte sofort testen und Ihre Lösung auch gleich mit der von Ihrem Trainer angebotenen Solution vergleichen.<br><br>
+
+Dieser Kurs richtet sich an Java- und Python-Entwickler:innen und zeigt ihnen, wie sie mit Visual Studio Code, Docker und weiteren Tools moderne Web-Anwendungen erstellen können.
 
 ## Anleitung
 
