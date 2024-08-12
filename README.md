@@ -41,4 +41,4 @@ Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linke
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/nosql-datenbanken-grundlagen/
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4E0DAQF8CojBkUYIig/learning-public-crop_675_1200/0/1722849534577?e=2147483647&v=beta&t=Z9HklzCOYvkp11F8QiG9G4_CqcaRldVIdrD0bTdZhFM
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4E0DAQFAdIaBucfbxw/learning-public-crop_675_1200/0/1723448296346?e=2147483647&v=beta&t=PCdw4dyNX0bx566E2M_wFaJ0kRvGV3Rx2d8n98ie1ns
